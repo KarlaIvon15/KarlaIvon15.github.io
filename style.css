@@ -1,0 +1,27 @@
+*{
+    font-family: "Outfit", sans-serif;
+}
+header{
+    background-color: #DA7297;
+}
+header span{
+    color: #F8EDEF;
+}
+.nav-item a{
+    color: #F8EDEF;
+}
+/* link visitado */
+.nav-item a:visited{
+    color: #F8EDEF;
+}
+.nav-item a:hover{
+    color: #850F8D;
+}
+#nav-butoon{
+    background-color: #FFB4C2;
+}
+.bi{
+color: #DA7297;
+font-size: 2em;
+}
+
