@@ -24,4 +24,13 @@ header span{
 color: #DA7297;
 font-size: 2em;
 }
+footer{
+    background-color:#FFB4C2;
+}
+footer .icon-footer i{
+    color: #F8EDEF;
+}
+footer p{
+    color: turquoise;
+}
 
